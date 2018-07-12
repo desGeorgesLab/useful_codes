@@ -1,2 +1,2 @@
 # useful_codes
-This repository is keep all of the small code that we use.
+Put all of your script in here.
